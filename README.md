@@ -2,7 +2,7 @@
 
 ## Docs: https://appcheap.io/docs/cirilla-developers-docs/
 
-## How to Use
+## How to Use ok
 
 **Step 1:**
 
