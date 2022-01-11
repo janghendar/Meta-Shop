@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27793387154",
+    "project_id": "tokolucky-app",
+    "storage_bucket": "tokolucky-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27793387154:android:23656878161beafd57404b",
+        "android_client_info": {
+          "package_name": "com.tokolucky.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27793387154-90mtc1g4bp1nha0jb3n21t8sc2sji9ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPPjMU2uoxI2-BWQu58f0Qa9Eg-CpyOS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27793387154-90mtc1g4bp1nha0jb3n21t8sc2sji9ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
